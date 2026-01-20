@@ -73,6 +73,6 @@ Concurrent and distributed systems, operating systems, performance engineering, 
 ## Contact
 
 Email: oaydas@umich.edu  
-GitHub: https://github.com/oaydas
+GitHub: https://github.com/oaydas  
 LinkedIn: https://linkedin.com/in/omeraydas  
 Personal Site: https://oaydas.github.io
