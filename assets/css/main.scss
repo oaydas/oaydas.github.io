@@ -41,3 +41,23 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Accessibility improvements */
+.archive__item-title a,
+.page__content a,
+.archive a {
+  color: #005a9c;
+  text-decoration: underline;
+}
+
+.archive__item-title a:hover,
+.page__content a:hover,
+.archive a:hover {
+  text-decoration: underline;
+}
+
+.greedy-nav button:focus,
+.masthead a:focus {
+  outline: 3px solid #005a9c;
+  outline-offset: 2px;
+}
